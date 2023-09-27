@@ -1,2 +1,2 @@
-# Test
+# Projects
 MyFirstProject
